@@ -1,1 +1,1 @@
-wer_means_power
+wer_means
